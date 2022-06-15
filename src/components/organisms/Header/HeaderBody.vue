@@ -5,10 +5,7 @@
       <BaseLogo url="#" />
       <HeaderSearchSection class="flex-grow" />
       <HeaderAffiliateSection />
-
-      <!-- Personal -->
       <HeaderUserSection />
-      <!-- /Personal -->
     </div>
     <!-- /Container -->
   </div>
