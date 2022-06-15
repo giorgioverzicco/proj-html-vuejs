@@ -1,5 +1,5 @@
 <template>
-  <div class="relative my-8 flex bg-cube-coral-red text-neutral-100">
+  <div class="relative mt-8 flex bg-cube-coral-red text-neutral-100">
     <div class="z-10 w-1/2 space-y-4 py-24 pl-48">
       <h1 class="text-5xl font-bold">Udemy Affiliate Sales</h1>
       <p class="text-xl">
