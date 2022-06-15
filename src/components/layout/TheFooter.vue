@@ -7,7 +7,7 @@
 
 <script>
 import FooterTop from '@/components/organisms/Footer/FooterTop'
-import FooterBottom from '@/components/layout/FooterBottom'
+import FooterBottom from '@/components/organisms/Footer/FooterBottom'
 
 export default {
   name: 'TheFooter',
