@@ -11,7 +11,7 @@
   </FooterSection>
 </template>
 <script>
-import FooterSection from '@/components/organisms/Footer/Sections/FooterSection'
+import FooterSection from '@/components/molecules/Footer/Sections/FooterSection'
 
 export default {
   name: 'FooterAboutSection',

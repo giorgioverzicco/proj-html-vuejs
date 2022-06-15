@@ -17,7 +17,7 @@
 
 <script>
 import ButtonSocial from '@/components/atoms/Buttons/ButtonSocial'
-import FooterSection from '@/components/organisms/Footer/Sections/FooterSection'
+import FooterSection from '@/components/molecules/Footer/Sections/FooterSection'
 
 export default {
   name: 'FooterSocialSection',

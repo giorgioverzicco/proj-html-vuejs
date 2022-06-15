@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import FooterAboutSection from '@/components/organisms/Footer/Sections/FooterAboutSection'
-import FooterContactSection from '@/components/organisms/Footer/Sections/FooterContactSection'
+import FooterAboutSection from '@/components/molecules/Footer/Sections/FooterAboutSection'
+import FooterContactSection from '@/components/molecules/Footer/Sections/FooterContactSection'
 
 export default {
   name: 'FooterTopLeft',
