@@ -11,7 +11,7 @@
 <script>
 import HeaderTop from '@/components/organisms/Header/HeaderTop'
 import HeaderBody from '@/components/organisms/Header/HeaderBody'
-import HeaderBottom from '@/components/layout/HeaderBottom'
+import HeaderBottom from '@/components/organisms/Header/HeaderBottom'
 
 export default {
   name: 'TheHeader',
