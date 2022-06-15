@@ -24,6 +24,7 @@ module.exports = {
         'material-ebony-clay': '#2B2C43',
         'material-half-baked': '#87C5D5',
         'material-search': '#457992',
+        'material-footer': '#273044',
       },
     },
   },
