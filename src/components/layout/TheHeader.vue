@@ -4,7 +4,6 @@
       class="border-b-2 border-b-neutral-100 bg-white text-sm text-neutral-400"
     />
     <HeaderBody class="bg-white text-sm text-neutral-600" />
-
     <HeaderBottom class="bg-cube-ebony-clay text-neutral-100" />
   </header>
 </template>
