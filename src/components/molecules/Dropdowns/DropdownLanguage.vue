@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import ButtonIcon from '@/components/layout/ButtonIcon'
+import ButtonIcon from '@/components/atoms/Buttons/ButtonIcon'
 export default {
   name: 'DropdownLanguage',
   components: { ButtonIcon },

@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import DropdownLanguage from '@/components/molecules/DropdownLanguage'
+import DropdownLanguage from '@/components/molecules/Dropdowns/DropdownLanguage'
 
 export default {
   name: 'HeaderTopLeft',

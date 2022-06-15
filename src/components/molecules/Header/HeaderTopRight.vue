@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import NavigationBar from '@/components/molecules/NavigationBar'
-import SocialBar from '@/components/molecules/SocialBar.vue'
+import NavigationBar from '@/components/molecules/Header/Bars/NavigationBar'
+import SocialBar from '@/components/molecules/Header/Bars/SocialBar.vue'
 
 export default {
   name: 'HeaderTopRight',
