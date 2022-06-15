@@ -1,12 +1,14 @@
 <template>
-  <button class="flex items-center space-x-2">
+  <ButtonIcon>
     <span>English</span>
     <FontAwesomeIcon icon="fa-solid fa-chevron-down" class="fa-xs" />
-  </button>
+  </ButtonIcon>
 </template>
 
 <script>
+import ButtonIcon from '@/components/layout/ButtonIcon'
 export default {
-  name: 'ButtonIcon',
+  name: 'DropdownLanguage',
+  components: { ButtonIcon },
 }
 </script>
