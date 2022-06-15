@@ -18,10 +18,10 @@ export default {
 
 <style>
 .container-lg {
-  @apply w-full md:w-10/12;
+  @apply w-full px-4 lg:px-0 lg:max-w-screen-xl;
 }
 
 .container-md {
-  @apply w-full md:w-8/12;
+  @apply w-full px-4 lg:px-0 lg:max-w-screen-lg;
 }
 </style>
