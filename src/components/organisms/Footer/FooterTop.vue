@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="mx-auto flex w-8/12 gap-x-24 py-14">
+    <div class="container-md mx-auto flex gap-x-24 py-14">
       <FooterTopLeft class="w-1/2" />
       <FooterTopRight class="w-1/2" />
     </div>
