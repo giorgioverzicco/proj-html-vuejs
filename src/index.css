@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layout base {
+  html {
+    font-family: Inter, system-ui, sans-serif;
+  }
+}
