@@ -1,10 +1,12 @@
 <template>
-  <section class="container-lg mx-auto mt-16 space-y-6">
+  <section class="container-lg mt-16 space-y-6">
     <h3 class="text-xl font-bold text-material-ebony-clay">
       Popular Development Courses
     </h3>
 
-    <div class="flex gap-x-4">
+    <div
+      class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6"
+    >
       <CardCourse
         v-for="(course, idx) in courses"
         :key="idx"
