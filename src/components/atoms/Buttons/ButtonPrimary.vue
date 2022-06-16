@@ -18,8 +18,7 @@ export default {
 
 <style>
 .btn-primary {
-  @apply -translate-y-0.5
-  rounded-full
+  @apply rounded-full
   bg-cube-coral-red
   px-6
   py-3
@@ -29,7 +28,7 @@ export default {
   shadow-md
   transition-all
   duration-500
-  hover:translate-y-0
+  hover:translate-y-0.5
   hover:bg-median-amaranth
   hover:shadow-none;
 }
