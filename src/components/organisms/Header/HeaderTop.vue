@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Container -->
-    <div class="container-lg mx-auto flex items-center justify-between py-4">
+    <div class="container-lg flex items-center justify-between py-4">
       <HeaderTopLeft />
       <HeaderTopRight />
     </div>

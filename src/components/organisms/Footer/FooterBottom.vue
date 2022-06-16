@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container-md mx-auto flex items-center gap-x-6 py-5">
+    <div class="container-md flex items-center gap-x-6 py-5">
       <div class="h-[32px]">
         <img
           class="h-full max-w-full"

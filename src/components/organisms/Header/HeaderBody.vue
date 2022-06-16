@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Container -->
-    <div class="container-lg mx-auto flex items-center gap-x-12 py-6">
+    <div class="container-lg flex items-center gap-x-12 py-6">
       <BaseLogo url="#" />
       <HeaderSearchSection class="flex-grow" />
       <HeaderAffiliateSection />

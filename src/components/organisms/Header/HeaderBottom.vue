@@ -1,9 +1,7 @@
 <template>
   <div>
     <!-- Container -->
-    <div
-      class="container-lg mx-auto flex items-center justify-center gap-x-14 py-6"
-    >
+    <div class="container-lg flex items-center justify-center gap-x-14 py-6">
       <ButtonIcon
         v-for="(link, idx) in links"
         :key="idx"
