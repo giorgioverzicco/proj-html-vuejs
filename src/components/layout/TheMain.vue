@@ -1,14 +1,14 @@
 <template>
   <main>
     <SectionHero />
-    <SectionPopularCourses />
+    <SectionPopularDevCourses />
     <SectionLearnMore />
     <SectionRecentCourses />
   </main>
 </template>
 
 <script>
-import SectionPopularCourses from '@/components/organisms/Main/Sections/SectionPopularCourses'
+import SectionPopularDevCourses from '@/components/organisms/Main/Sections/SectionPopularDevCourses'
 import SectionHero from '@/components/organisms/Main/Sections/SectionHero'
 import SectionLearnMore from '@/components/organisms/Main/Sections/SectionLearnMore'
 import SectionRecentCourses from '@/components/organisms/Main/Sections/SectionRecentCourses'
@@ -19,7 +19,7 @@ export default {
     SectionRecentCourses,
     SectionLearnMore,
     SectionHero,
-    SectionPopularCourses,
+    SectionPopularDevCourses,
   },
 }
 </script>

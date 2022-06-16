@@ -11,7 +11,7 @@
 import CardCourseGrid from '@/components/organisms/CardCourseGrid'
 
 export default {
-  name: 'SectionPopularCourses',
+  name: 'SectionPopularDevCourses',
   components: { CardCourseGrid },
   data() {
     return {
