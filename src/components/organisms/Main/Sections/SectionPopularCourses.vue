@@ -1,5 +1,5 @@
 <template>
-  <section class="container-lg mt-16 space-y-6">
+  <section class="container-lg my-24 space-y-6">
     <h3 class="text-xl font-bold text-material-ebony-clay">
       Popular Development Courses
     </h3>
