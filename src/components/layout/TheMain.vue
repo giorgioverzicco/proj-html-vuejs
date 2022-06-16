@@ -1,16 +1,16 @@
 <template>
   <main>
-    <AppHero />
+    <SectionHero />
     <SectionPopularCourses />
   </main>
 </template>
 
 <script>
-import AppHero from '@/components/molecules/AppHero'
-import SectionPopularCourses from '@/components/organisms/SectionPopularCourses'
+import SectionPopularCourses from '@/components/organisms/Main/Sections/SectionPopularCourses'
+import SectionHero from '@/components/organisms/Main/Sections/SectionHero'
 
 export default {
   name: 'TheMain',
-  components: { SectionPopularCourses, AppHero },
+  components: { SectionHero, SectionPopularCourses },
 }
 </script>
