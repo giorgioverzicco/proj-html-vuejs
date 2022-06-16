@@ -4,23 +4,15 @@
       Popular Development Courses
     </h3>
 
-    <div
-      class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6"
-    >
-      <CardCourse
-        v-for="(course, idx) in courses"
-        :key="idx"
-        :course="course"
-      />
-    </div>
+    <CardCourseGrid :courses="courses" />
   </section>
 </template>
 <script>
-import CardCourse from '@/components/molecules/CardCourse'
+import CardCourseGrid from '@/components/organisms/CardCourseGrid'
 
 export default {
   name: 'SectionPopularCourses',
-  components: { CardCourse },
+  components: { CardCourseGrid },
   data() {
     return {
       courses: [
