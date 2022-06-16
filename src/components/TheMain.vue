@@ -1,5 +1,7 @@
 <template>
-  <main>
+  <main class="relative">
+    <SideBar />
+
     <SectionHero />
     <SectionPopularDevCourses />
     <SectionLearnMore />
@@ -20,10 +22,12 @@ import SectionLearnMore from "@/components/SectionLearnMore.vue";
 import SectionNewsletter from "@/components/SectionNewsLetter.vue";
 import SectionAffiliate from "@/components/SectionAffiliate.vue";
 import SectionTestimonial from "@/components/SectionTestimonial.vue";
+import SideBar from "@/components/SideBar.vue";
 
 export default {
   name: "TheMain",
   components: {
+    SideBar,
     SectionTestimonial,
     SectionAffiliate,
     SectionNewsletter,
