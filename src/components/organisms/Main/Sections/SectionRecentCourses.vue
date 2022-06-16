@@ -20,6 +20,7 @@
     <ButtonPrimary tag="a" href="#">Show All</ButtonPrimary>
   </section>
 </template>
+
 <script>
 import CardCourseGrid from '@/components/organisms/CardCourseGrid'
 import ButtonPrimary from '@/components/atoms/Buttons/ButtonPrimary'
