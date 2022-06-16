@@ -18,10 +18,10 @@ export default {
 
 <style>
 .container-lg {
-  @apply mx-auto max-w-[1640px] p-6;
+  @apply mx-auto max-w-[1640px] px-6;
 }
 
 .container-md {
-  @apply mx-auto max-w-[1366px] p-6;
+  @apply mx-auto max-w-[1366px] px-6;
 }
 </style>
