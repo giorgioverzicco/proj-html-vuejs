@@ -1,5 +1,5 @@
 <template>
-  <div class="absolute pointer-events-none inset-0 flex h-full w-full flex-col items-end">
+  <div class="absolute bg-transparent top-0 right-0 h-full">
     <div
       class="sticky top-1/2 z-10 flex w-[48px] -translate-y-1/2 flex-col items-center gap-y-5 bg-white py-5 text-neutral-500 shadow-[2px_0_20px_rgba(0,0,0,0.2)]"
     >
