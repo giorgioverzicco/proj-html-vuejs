@@ -18,7 +18,7 @@
             <input
               type="text"
               placeholder="Enter your E-mail"
-              class="w-full bg-ice-900 px-3 py-2 text-secondary placeholder:text-neutral-500"
+              class="w-full bg-white px-3 py-2 text-secondary placeholder:text-neutral-500"
             />
 
             <AppButton class="bg-accent px-6 py-3 uppercase text-white">
