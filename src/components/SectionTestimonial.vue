@@ -7,7 +7,7 @@
 
     <div class="absolute inset-0 h-full w-full py-16">
       <div class="container-md flex h-full">
-        <div class="h-full w-7/12 bg-neutral-50 px-16 py-20">
+        <div class="h-full w-7/12 overflow-y-auto bg-neutral-50 px-16 py-20">
           <h3 class="mb-5 text-3xl font-semibold text-secondary">
             Investing for Your Future
           </h3>
