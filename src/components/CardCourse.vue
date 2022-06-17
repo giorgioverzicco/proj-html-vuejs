@@ -39,7 +39,10 @@
         </div>
 
         <div class="flex h-full flex-col items-end">
-          <span class="text-sm text-neutral-400 line-through">
+          <span
+            v-if="course.original_price"
+            class="text-sm text-neutral-400 line-through"
+          >
             ${{ course.original_price }}
           </span>
           <span class="font-semibold">${{ course.price }}</span>
